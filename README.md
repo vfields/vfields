@@ -4,7 +4,7 @@
 Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
 </p>
 
-<h4 align="center"><a href="https://www.linkedin.com/in/victoria-ashley-fields/">LinkedIn</a> | <a href="mailto:victoriaashleyfields@gmail.com">GMail</a></h4>
+<h3 align="center"><a href="https://www.linkedin.com/in/victoria-ashley-fields/">LinkedIn</a> | <a href="mailto:victoriaashleyfields@gmail.com">GMail</a></h3>
 
 <hr />
 
