@@ -1,7 +1,7 @@
 ![Victoria Fields Welcome Banner](https://user-images.githubusercontent.com/103962335/195483701-80b09ea8-a1e0-4341-9191-5ef504e12c22.jpg)
 
 <p align="center">
-Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>
+Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
 </p>
 
 <h4 align="center"><a href="https://www.linkedin.com/in/victoria-ashley-fields/">LinkedIn</a> | <a href="mailto:victoriaashleyfields@gmail.com">GMail</a></h4>
@@ -40,6 +40,14 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 ### Processes
 - Test-Driven Development (TDD)
 - Object-Oriented Programming (OOP)
+
+<hr />
+
+### About Me:
+- 📚 I'm currently focused on learning React, Cypress, and Express
+- 🎉 As a former pelvic physical therapist, I am excited about <b>medTech</b>, <b>edTech</b>, and any other industry interested in empowering patients and improving the provider experience!
+- 😄 Pronouns: she/her
+- 🥔 Fun fact: I don't like french fries, but I love sweet potato fries!
 
 <!-- LINKS ***************************************************************************************** -->
 [JavaScript-shield]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
