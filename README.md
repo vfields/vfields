@@ -10,10 +10,10 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 
 <div align="center">
   <a href="https://github.com/vfields/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=vfields&show_icons=true&theme=outrun" />
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=vfields&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/vfields/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfields&layout=compact&theme=outrun" />
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfields&layout=compact&theme=outrun" />
   </a>
 </div>
 
