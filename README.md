@@ -27,6 +27,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 
 ### Frameworks, Libraries & Testing
 ![React][React-shield]
+![React-Router][Router-shield]
 ![Mocha][Mocha-shield]
 ![Chai][Chai-shield]
 ![Cypress][Cypress-shield]
@@ -57,6 +58,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 [Markdown-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 
 [React-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Router-shield]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 [Mocha-shield]: https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white
 [Chai-shield]: https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white
 [Cypress-shield]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
