@@ -20,6 +20,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 <hr />
 
 ### Languages
+![TypeScript][TypeScript-shield]
 ![JavaScript][JavaScript-shield]
 ![CSS][CSS-shield]
 ![HTML5][HTML-shield]
@@ -52,6 +53,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
  🥔 Fun fact: I don't like french fries, but I love sweet potato fries!<br />
 
 <!-- LINKS ***************************************************************************************** -->
+[TypeScript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [JavaScript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [HTML-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
