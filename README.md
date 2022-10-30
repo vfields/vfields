@@ -46,7 +46,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 <hr />
 
 ### About Me:
- 📚 I'm currently focused on learning React, Cypress, and Express<br />
+ 📚 I'm currently focused on learning TypeScript and Express<br />
  🎉 As a former pelvic physical therapist, I am excited about <b>medTech</b>, <b>edTech</b>, and any other industry interested in empowering patients with knowledge and improving the provider experience!<br />
  🌻 Pronouns: she/her<br />
  🥔 Fun fact: I don't like french fries, but I love sweet potato fries!<br />
