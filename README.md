@@ -1,4 +1,4 @@
-![Victoria Fields Welcome Banner](https://user-images.githubusercontent.com/103962335/195483701-80b09ea8-a1e0-4341-9191-5ef504e12c22.jpg)
+![Victoria Fields Welcome Banner](https://user-images.githubusercontent.com/103962335/199627517-e6e6d139-7afa-44a4-af26-8599765d4565.jpg)
 
 <p align="center">
 Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https://turing.edu/">Turing School of Software and Design</a>.
