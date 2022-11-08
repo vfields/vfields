@@ -48,7 +48,7 @@ Hi, I'm Tori 🤝 and I am studying front-end development at the <a href="https:
 
 ### About Me:
  📚 I'm currently focused on learning Context API and AWS<br />
- 🎉 As a former pelvic physical therapist, I am excited about <b>medTech</b>, <b>edTech</b>, and any other industry interested in empowering patients with knowledge and improving the provider experience!<br />
+ 🎉 As a former pelvic physical therapist, I am excited about <b>medTech</b>, <b>edTech</b>, and any other industry interested in empowering the people with knowledge or inflicting meaningful change!<br />
  🌻 Pronouns: she/her<br />
  🥔 Fun fact: I don't like french fries, but I love sweet potato fries!<br />
 
