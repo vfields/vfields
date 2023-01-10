@@ -1,7 +1,7 @@
 ![Victoria Fields Welcome Banner](https://user-images.githubusercontent.com/103962335/207446829-3442afd5-f689-4d84-acd8-a1f42aa7acbc.jpg)
 
 <p align="center">
-Hi, I'm Tori 🤝 and I am a software engineer with an accredited certificate from the <a href="https://turing.edu/">Turing School of Software and Design</a>.
+Hi, I'm Tori 🤝 and I am a software engineer with an accredited front-end engineering certificate from the <a href="https://turing.edu/">Turing School of Software and Design</a>.
 </p>
 
 <h3 align="center"><a href="https://www.linkedin.com/in/victoria-ashley-fields/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:victoriaashleyfields@gmail.com">GMail</a> | <a href="https://vfields-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h3>
