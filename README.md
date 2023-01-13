@@ -8,17 +8,6 @@ Hi, I'm Tori 🤝 and I am a software engineer with an accredited front-end engi
 
 <hr />
 
-<div align="center">
-  <a href="https://github.com/vfields/github-readme-stats">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=vfields&show_icons=true&theme=outrun" />
-  </a>
-  <a href="https://github.com/vfields/github-readme-stats">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfields&layout=compact&theme=outrun" />
-  </a>
-</div>
-
-<hr />
-
 ### Languages
 ![TypeScript][TypeScript-shield]
 ![JavaScript][JavaScript-shield]
