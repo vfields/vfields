@@ -1,61 +1,13 @@
-![Victoria Fields Welcome Banner](https://user-images.githubusercontent.com/103962335/207446829-3442afd5-f689-4d84-acd8-a1f42aa7acbc.jpg)
-
 <p align="center">
-Hi, I'm Tori 🤝 and I am a software engineer with an accredited front-end engineering certificate from the <a href="https://turing.edu/">Turing School of Software and Design</a>.
+ <img width=250 src="https://user-images.githubusercontent.com/103962335/222627585-ed1e5fd9-b06b-4bbd-9aec-98c00f351742.png">
+  <img width=168 src="https://user-images.githubusercontent.com/103962335/222627372-c4d9f0b0-b35b-465d-a503-94dc24855465.png">
+ <img width=305 src="https://user-images.githubusercontent.com/103962335/222627858-72b7419e-66ca-4add-9a0d-95ff467511ef.png">
 </p>
-
-<h3 align="center"><a href="https://www.linkedin.com/in/victoria-ashley-fields/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:victoriaashleyfields@gmail.com">GMail</a> | <a href="https://vfields-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h3>
-
-<hr />
-
-### Languages
-![TypeScript][TypeScript-shield]
-![JavaScript][JavaScript-shield]
-![CSS][CSS-shield]
-![HTML5][HTML-shield]
-![Markdown][Markdown-shield]
-
-### Frameworks, Libraries & Testing
-![React][React-shield]
-![React-Router][Router-shield]
-![Mocha][Mocha-shield]
-![Chai][Chai-shield]
-![Cypress][Cypress-shield]
-![NPM][NPM-shield]
-![NodeJS][NodeJs-shield]
-
-### Tools
-![Git][Git-shield]
-![GitHub][GitHub-shield]
-![Webpack][Webpack-shield]
-
-### Processes
-- Test-Driven Development (TDD)
-- Object-Oriented Programming (OOP)
-
 <hr />
 
 ### About Me:
- 📚 I'm currently focused on learning Redux/Toolkit<br />
- 🎉 As a former pelvic physical therapist, I am excited about <b>medTech</b>, <b>edTech</b>, and any other industry interested in empowering the people with knowledge or inflicting meaningful change!<br />
- 🌻 Pronouns: she/her<br />
- 🥔 Fun fact: I don't like french fries, but I love sweet potato fries!<br />
-
-<!-- LINKS ***************************************************************************************** -->
-[TypeScript-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[JavaScript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[HTML-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[Markdown-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-
-[React-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Router-shield]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-[Mocha-shield]: https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white
-[Chai-shield]: https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white
-[Cypress-shield]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
-[NPM-shield]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-[NodeJS-shield]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-
-[Git-shield]: https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white
-[GitHub-shield]: https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white
-[Webpack-shield]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
+ 👋 Hi, I'm Tori<br />
+ 👩‍💻 I'm a Junior Software Engineer at TaskRay<br />
+ 🌻 My background is in pelvic physical therapy and small business ownership<br />
+ ☀️ When I'm not coding, you'll find me writing or playing outside with my partner and pupflake<br />
+ 😸 Check meowt on <a href="https://www.linkedin.com/in/victoria-ashley-fields/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="mailto:victoriaashleyfields@gmail.com">send me an email</a> if you'd like to connect
