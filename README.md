@@ -4,7 +4,7 @@
 [![Salesforce](https://img.shields.io/badge/Victoria%20Fields%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white&link=https://trailblazer.me/id/victoria-ashley-fields)](https://www.salesforce.com/trailblazer/victoria-ashley-fields)
 [![Gmail](https://img.shields.io/badge/Victoria%20Fields%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:victoriaashleyfields@gmail.com)](mailto:victoriaashleyfields@gmail.com)
 
- - 👩‍💻 I'm a Junior Software Engineer at [TaskRay](https://www.taskray.com/)
+ - 👩‍💻 I'm a Software Engineer at [TaskRay](https://www.taskray.com/)
  - 📍 Based in the mountains of Vesuvius, VA
  - ⛰️ Outside of work, you'll find me writing or playing outside with my partner and pupflakes
 
